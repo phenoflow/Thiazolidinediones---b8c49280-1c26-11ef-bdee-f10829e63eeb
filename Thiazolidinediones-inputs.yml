@@ -1,0 +1,30 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/thiazolidinediones-1000mg---primary.py
+inputModule3:
+  class: File
+  path: python/thiazolidinediones-avandia---primary.py
+inputModule4:
+  class: File
+  path: python/thiazolidinediones-metformin---primary.py
+inputModule5:
+  class: File
+  path: python/thiazolidinediones-rosiglitazone---primary.py
+inputModule6:
+  class: File
+  path: python/thiazolidinediones-pioglitazone---primary.py
+inputModule7:
+  class: File
+  path: python/thiazolidinediones-850mg---primary.py
+inputModule8:
+  class: File
+  path: python/thiazolidinediones-tablet---primary.py
+inputModule9:
+  class: File
+  path: python/thiazolidinediones-500mg---primary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
